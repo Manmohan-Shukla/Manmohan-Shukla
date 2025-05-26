@@ -10,13 +10,13 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manmohan-Shukla&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Manmohan-Shukla&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  ![](https://leetcard.jacoblin.cool/Manmohan_Shukla?ext=heatmap)
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manmohan-Shukla&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center" style:" gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -38,9 +38,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
 </div>
 
-###
-
-<div align="left">
+<br/> 
+ 
+<div align="center" style:" gap: 10px;">
   <a href="https://manmohanshukla815@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -53,10 +53,14 @@
 </div>
 
 ###
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Manmohan_Shukla?ext=heatmap" alt="LeetCode Stats" />
+</div>
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Manmohan-Shukla/Manmohan-Shukla/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Manmohan-Shukla/Manmohan-Shukla/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
