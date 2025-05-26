@@ -3,7 +3,7 @@
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manmohan-shukla&label=Profile%20views&color=0e75b6&style=flat" alt="manmohan-shukla" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manmohan-shukla" alt="manmohan-shukla" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manmohan-shukla&theme=radical" alt="manmohan-shukla" /></a> </p>
 
 <br clear="both">
 
