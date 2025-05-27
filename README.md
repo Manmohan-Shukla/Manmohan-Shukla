@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is  Manmohan Shukla I'm a A passionate frontend developer from India</h2>
+<h2 align="left">Hi 👋! My name is  Manmohan Shukla I'm a Passionate Full-Stack developer from India</h2>
 
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manmohan-shukla&label=Profile%20views&color=0e75b6&style=flat" alt="manmohan-shukla" /> </p>
